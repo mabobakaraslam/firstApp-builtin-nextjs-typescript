@@ -1,2 +1,3 @@
-# firstApp-builtin-nextjs-typescript
-recommended Settings - Oct-2026
+# First Applicatio using NextJS TypeScript
+
+Recommended Setttins are applied, Oct-2026
